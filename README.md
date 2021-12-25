@@ -9,7 +9,7 @@ Clone ederek index.html'i inceleyebilirsiniz
 
 ```
 
-git clone https://github.com/alikartalonline/Kakaolu-Islak-Kek.git
+git clone https://github.com/cetinnyigit/FakirPastasi.git
 
 ```
 
